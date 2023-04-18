@@ -3,7 +3,8 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Main from './components/Main';
 import { Card } from './components/Card';
-import Feedback from './components/Feedback';
+import Feedback1 from './components/Feedback1';
+
 
 
 function App() {
@@ -11,9 +12,10 @@ function App() {
     <>
     <Navbar/>
     <Main/>
-    <Feedback/>
+    <Feedback1/>
     <Card/>
     <Footer/>
+
  
     </>
   );
